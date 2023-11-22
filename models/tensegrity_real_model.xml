@@ -242,6 +242,18 @@
   </actuator>
 
   <sensor>
+    <tendonpos name="link1t_3b_sensor" tendon="link1t_3b"/>
+    <tendonpos name="link1b_4b_sensor" tendon="link1t_4b"/>
+    <tendonpos name="link1b_6t_sensor" tendon="link1b_6b"/>
+    <tendonpos name="link1t_5b_sensor" tendon="link1t_5t"/>
+    <tendonpos name="link2t_4t_sensor" tendon="link2b_4t"/>
+    <tendonpos name="link2b_3t_sensor" tendon="link2b_3t"/>
+    <tendonpos name="link2b_6b_sensor" tendon="link2b_6b"/>
+    <tendonpos name="link2t_5t_sensor" tendon="link2t_5t"/>
+    <tendonpos name="link3b_5t_sensor" tendon="link3t_5t"/>
+    <tendonpos name="link3t_6t_sensor" tendon="link3t_6t"/>
+    <tendonpos name="link4b_5b_sensor" tendon="link4b_5b"/>
+    <tendonpos name="link4t_6b_sensor" tendon="link4b_6b"/>
   </sensor>
 
 </mujoco>
